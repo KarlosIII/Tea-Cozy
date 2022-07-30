@@ -1,0 +1,193 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+/*Nav bar + logo */
+
+nav {
+    height: 49px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-flow: column wrap;
+    border-bottom: 1px solid seashell;
+}
+
+
+#logo {
+    margin-left: 10px;
+    height: 49px;
+    width: auto;
+    display: inline-flex;
+              
+}
+
+#navbar {
+    display: inline-flex;
+    justify-content: flex-end;
+}
+
+a {
+    text-decoration: underline;
+    padding: 10px;
+}
+
+/* Main Banner */
+
+
+
+
+#banner_container {
+    display: flex;
+    flex-direction: column;
+    background-image: url("../../Tea\ Cozy\ image/img-mission-background.jpg");
+    height: 700px;
+    width: 1200px;
+    justify-content: center;
+    position: relative;
+
+       
+}
+
+#banner_container h2, h4 {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0px;
+    margin: 0px;
+    opacity: 1;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+/*Featured Tea */
+
+#tea_container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 1000px;
+    
+}
+
+#tea_container div p {
+    margin-top: 10px;
+}
+
+
+.image {
+    display:inline-flex;
+    height: 200px;
+    width: 300px;
+    margin: 10px 10px;
+}
+
+
+
+/* Location */
+#background {
+    background-image: url("../../Tea\ Cozy\ image/img-locations-background.jpg");
+    height: 500px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    column-gap: 40px;
+    row-gap: 15px;
+    
+    
+     
+}
+#location_container {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    column-gap: 40px;
+    background: none;
+   
+ 
+}
+
+#location_container div {
+    width:300px;
+    line-height: 2;
+    background: black;
+    column-gap: 10px;
+  
+}
+
+#location {
+    opacity: 1;
+}
+
+
+#loca {
+   
+    flex-wrap: nowrap;
+    background: none;
+    justify-content: center;
+    align-items: flex-start;
+    height: 50px;
+}
+
+#loca div {
+    display: inline-flex;
+    align-items: flex-start;
+    background: none;
+    font-size: 35px;
+    margin-top: 0px;
+
+    
+}
+
+#contact {
+    height: 200px;
+}
+/* Footer */
+
+footer p {
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
