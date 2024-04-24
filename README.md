@@ -4,6 +4,10 @@
 
 Tea Cozy project is a Codecademy project made to practice HTML/CSS. This project came with a visual to reproduce like a customer asking for a website.
 
+<img src=https://github.com/KarlosIII/Tea-Cozy/blob/main/Screenshot%201.png />
+<img src=https://github.com/KarlosIII/Tea-Cozy/blob/main/Screenshot%202.png />
+<img src=https://github.com/KarlosIII/Tea-Cozy/blob/main/Screenshot%203.png />
+
 ### Built with
 
 ![HTML5 and CSS logo](https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/01/html5-css3.jpg?resize=498%2C249&ssl=1)
